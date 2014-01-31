@@ -1,7 +1,6 @@
 PhotoFilters  
 ===============
 Version: 1.0
-License: Mozilla Public License, version 2.0
 License: MPL - Mozilla Public License, version 2.0
 
 Author: João Roberto P. Borges
@@ -23,9 +22,5 @@ Arquivos/Frameworks utilizados
 1 - Jquery ( http://jquery.com   | --version jquery-1.11.0.min.js ) 
 
 2 - CamanJS ( http://camanjs.com | --version 4.1.1)
-
-3 - Building-Blocks ( https://github.com/buildingfirefoxos/Building-Blocks.git )
-
-
 
 3 - Building-Blocks ( https://github.com/buildingfirefoxos/Building-Blocks.git ) 
