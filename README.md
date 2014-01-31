@@ -2,6 +2,7 @@ PhotoFilters
 ===============
 Version: 1.0
 License: Mozilla Public License, version 2.0
+License: MPL - Mozilla Public License, version 2.0
 
 Author: João Roberto P. Borges
 		http://www.facebook.com.br/joaorobertopb
@@ -27,3 +28,4 @@ Arquivos/Frameworks utilizados
 
 
 
+3 - Building-Blocks ( https://github.com/buildingfirefoxos/Building-Blocks.git ) 
