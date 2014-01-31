@@ -4,8 +4,9 @@ Version: 1.0
 License: MPL - Mozilla Public License, version 2.0
 
 Author: João Roberto P. Borges
-		http://www.facebook.com.br/joaorobertopb
-		http://www.twitter.com/joao_roberto0
+
+http://www.facebook.com.br/joaorobertopb
+http://www.twitter.com/joao_roberto0
 
 
 Use este aplicativo do Firefox OS para aplicar simples filtros em suas imagens, para depois compartilha-las.
