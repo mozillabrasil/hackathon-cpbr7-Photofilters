@@ -1,6 +1,9 @@
 PhotoFilters  
 ===============
+
+
 Version: 1.0
+
 License: MPL - Mozilla Public License, version 2.0
 
 Author: João Roberto P. Borges
@@ -10,7 +13,13 @@ Facebook: http://www.facebook.com.br/joaorobertopb
 Twitter: http://www.twitter.com/joao_roberto0
 
 
+
+
+
 Use este aplicativo do Firefox OS para aplicar simples filtros em suas imagens, para depois compartilha-las.
+
+
+
 
 
 Este aplicativo foi desenvolvido com o objetivo de participar do Hackathons de FireFox OS 
