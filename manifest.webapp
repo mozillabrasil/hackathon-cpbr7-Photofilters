@@ -1,0 +1,24 @@
+{
+  "name": "Photo Filters",
+  "description": "Use este aplicativo para adicionar filtros a suas imagens.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/app_icon_128.png"
+  },
+  "permissions": {
+    "storage": { "description": "Requerido para gravar as imagens no aparelho."}
+  },
+  "version": "1",
+  "developer": {
+    "name": "Joåo Roberto P. Borges",
+    "url": "http://www.facebook.com/joaorobertopb"
+  },
+  "default_locale": "pt_BR",
+  "locales": {
+    "pt_BR": {
+      "name": "اPhoto Filters",
+      "description": "Use este aplicativo para adicionar filtros a suas imagens."
+      }
+  },
+"installs_allowed_from": ["*"]
+}
