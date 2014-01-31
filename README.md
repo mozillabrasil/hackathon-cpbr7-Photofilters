@@ -1,15 +1,25 @@
-PhotoFilters
+PhotoFilters  
 ===============
-App do Firefox OS
+Version: 1.0
+
+Use este aplicativo do Firefox OS para aplicar simples filtros em suas imagens, para depois compartilha-las.
 
 
-Cross brower support
------------------------
-Include `cross_browser.css` if you want your webapp can run on any browsers.
+Este aplicativo foi desenvolvido com o objetivo
+de participar do Hackathons de FireFox OS 
+promovido pela Mozilla Brasil no evento 
+Campus Party 2014.
 
 
-Install
+Dependências
 ----------
+Arquivos/Frameworks utilizados
+
+1 - Jquery ( http://jquery.com   | --version jquery-1.11.0.min.js ) 
+
+2 - CamanJS ( http://camanjs.com | --version 4.1.1)
+
+3 - Building-Blocks ( https://github.com/buildingfirefoxos/Building-Blocks.git )
 
 
 
